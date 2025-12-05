@@ -1,0 +1,5 @@
+{
+  "name": "La Manila Kanishka POS",
+  "description": "A Point of Sale (POS) system for La Manila Kanishka, an Indian restaurant. It allows for creating manual bills and KOTs, managing items, and exporting orders.",
+  "requestFramePermissions": []
+}
